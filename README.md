@@ -4,7 +4,7 @@
 
 <figure>
 <img src='https://images.unsplash.com/photo-1618939304347-e91b1f33d2ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80'  width="400" height ="500"/>
-<figcaption>Image saurce: https://unsplash.com/photos/MEbT27ZrtdE</figcaption></center>
+<figcaption>image source: https://unsplash.com/photos/MEbT27ZrtdE</figcaption></center>
 </figure>
 
 
